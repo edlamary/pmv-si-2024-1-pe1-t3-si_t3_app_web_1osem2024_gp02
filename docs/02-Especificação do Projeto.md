@@ -8,15 +8,15 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-#Morador Administrador 
+# Morador Administrador 
 
 Síndico do condomínio. Depois de muitos problemas envolvendo as vagas de estacionamento ele gostaria de um jeito de organizar melhor essa dinâmica, evitando erros de comunicação e o ajudando a gerir o condomínio. 
 
-#Morador Locador 
+# Morador Locador 
 
 Morador de 30 anos, solteiro(a), que trabalha e estuda fora. Ele utiliza sua vaga somente à noite. Ele gostaria de alugar sua vaga para fazer renda extra.  
 
-#Morador Locatário 
+# Morador Locatário 
 
 Família que possui apenas um carro e recebe muitas visitas de familiares, eles possuem uma vida social ativa. Quando recebem visitas os amigos e familiares tem que deixar o carro na rua, sendo assim, gostariam de alocar uma vaga extra eventualmente. 
 
